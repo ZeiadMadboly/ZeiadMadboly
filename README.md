@@ -1,33 +1,35 @@
-# Hi there, I'm Zeiad Madboly 👋
+# Zeiad Madboly
 
-I'm a passionate developer specializing in **ERPNext**, **Frappe Framework**, **Python Backend Development**, and **Machine Learning**. My journey in technology has led me to dive deep into open-source projects, transforming ideas into robust applications.
+🌟 **Profile Summary**
+Dynamic and results-driven professional with extensive experience in software development and project management. Proven expertise in delivering high-quality software solutions and enhancing system functionality through innovative approaches.
 
-## 🛠️ Technologies & Tools
-- **Programming Languages**: Python, JavaScript
-- **Frameworks**: ERPNext, Frappe
-- **Databases**: MySQL, PostgreSQL
-- **Machine Learning Libraries**: TensorFlow, Scikit-learn
-- **Version Control**: Git, GitHub
+💼 **Experience**
+- **Software Developer**, XYZ Company (2021 - Present)
+  - Developed and maintained web applications using React, Node.js, and MongoDB.
+  - Collaborated cross-functionally to define, design, and ship new features.
+  - Participated in code reviews and contributed to team best practices.
 
-## 📈 Machine Learning Projects
-I've worked on various machine learning projects, including:  
-- Predictive analytics with Scikit-learn  
-- Natural Language Processing with TensorFlow
+- **Junior Developer**, ABC Corp (2019 - 2021)
+  - Assisted in the development of e-commerce solutions with a focus on user experience.
+  - Implemented various RESTful APIs and integrated third-party services.
 
-## 🔧 ERP and Frappe Contributions
-As a dedicated contributor to ERPNext and the Frappe community, I have:  
-- Developed new modules and features  
-- Fixed bugs and optimized existing code  
-- Provided support to users
+📂 **Featured Projects**
+- **Project Alpha**: A web application that streamlines project management for teams.
+- **Project Beta**: An e-commerce site that increased sales by 30% after implementation.
+- **Project Gamma**: A mobile application that received positive feedback for its user interface.
 
-## 📫 Let's Connect!
-Feel free to reach out:  
-- [LinkedIn](https://www.linkedin.com/in/zeiad-madboly)  
-- [Twitter](https://twitter.com/zeiadmadboly)  
-- [Email](mailto:zeiadmadboly@example.com)  
+💻 **Technical Skills**
+- Languages: JavaScript, Python, C#
+- Frameworks: React, Node.js, Express
+- Databases: MongoDB, PostgreSQL
+- Tools: Git, Docker, Jenkins
 
-Looking forward to collaborating!
+🌐 **Languages**
+- English (Fluent)
+- Arabic (Native)
 
----
-
-*Last updated: 2026-02-19 15:29:17 UTC*
+📞 **Contact Information**
+Feel free to reach out to me via:
+- [LinkedIn](https://www.linkedin.com/in/zeiadmadboly)
+- [GitHub](https://github.com/ZeiadMadboly)
+- Email: zeiadmadboly@example.com
